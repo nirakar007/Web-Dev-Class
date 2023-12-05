@@ -1,5 +1,6 @@
 import "./Home.css"
 function Home() {
+    alert("home");
     return (
         <>
             <div className="rectangle1">1</div>
